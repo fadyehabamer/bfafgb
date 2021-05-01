@@ -3,7 +3,7 @@
 
 > using **only one line of code**
 
-* **But have some issues (until the date that the repo created)
+* **But have some issues (until the date that the repo created)**
   * supported only in 
     * chrome-andriod
     * samsung browser
