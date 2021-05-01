@@ -11,3 +11,5 @@
     * chrome-andriod
     * samsung browser
   * **NOT** supported for **Darkmode**
+
+![preview](photo_2021-05-01_22-01-24.jpg)
